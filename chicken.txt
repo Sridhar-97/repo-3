@@ -2,3 +2,7 @@ chicken biryani
 chicken 65
 chicken kurma
 chicken butter masala
+chicken fry
+chicken masala
+chicken dosa
+
